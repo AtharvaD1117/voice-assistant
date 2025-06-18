@@ -1,4 +1,4 @@
-# 👩‍🍳 Voice-Controlled Cooking Assistant
+#  Voice-Controlled Cooking Assistant
 
 A mobile application that helps users cook hands-free using voice commands. Built with **React Native (Expo)** and powered by **OpenAI Whisper API** and **Firebase**.
 
